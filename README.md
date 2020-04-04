@@ -1,12 +1,9 @@
 # CSS342
 Author: Ben Khabazan
 
-This repository includes all projects worked on and created during the course of CSS342 in the University of Washington. 
+This repository includes all projects worked on and created during the course of CSS342 in the University of Washington.  <br />
 
-Project List: 
-Assignment 1: Dynamic Memory Management - Polynomial Evaluation
-Assignmnet 2: Binary Search Tree - Heaps
-Assignment 3: Graphs - Shortest Paths - Traversals
-Assignment 4: Hash Tables and Hash Function Analysis
+Project List:  <br />
+
 
 I reserve all rights to the code written as part of the solution.
